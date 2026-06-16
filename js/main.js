@@ -4,7 +4,7 @@
 const SERVICES = [
   {
     id: 'design',
-    photo: './Fotos/Services/Graphic Design 1.png',
+    photo: './Fotos/Services/Graphic Design 1.webp',
     color: '#FF3333',
     es: {
       title: 'Diseño Gráfico',
@@ -23,7 +23,7 @@ const SERVICES = [
   },
   {
     id: 'signs',
-    photo: './Fotos/Services/Exterior Signs 2.png',
+    photo: './Fotos/Services/Exterior Signs 2.webp',
     color: '#FF9900',
     es: {
       title: 'Carteles de Exteriores',
@@ -42,7 +42,7 @@ const SERVICES = [
   },
   {
     id: 'carwraps',
-    photo: './Fotos/Services/Car Wraps 3.png',
+    photo: './Fotos/Services/Car Wraps 3.webp',
     color: '#0099CC',
     es: {
       title: 'Car Wraps',
@@ -61,7 +61,7 @@ const SERVICES = [
   },
   {
     id: 'interior',
-    photo: './Fotos/Services/Interior Signs 4.png',
+    photo: './Fotos/Services/Interior Signs 4.webp',
     color: '#FFCC00',
     es: {
       title: 'Señalización Interior',
@@ -80,7 +80,7 @@ const SERVICES = [
   },
   {
     id: 'storefront',
-    photo: './Fotos/Services/Storefront 5.png',
+    photo: './Fotos/Services/Storefront 5.webp',
     color: '#06b6d4',
     es: {
       title: 'Storefront / Fachada',
@@ -99,7 +99,7 @@ const SERVICES = [
   },
   {
     id: 'corporate',
-    photo: './Fotos/corporativos.jpg',
+    photo: './Fotos/corporativos.webp',
     color: '#a855f7',
     es: {
       title: 'Materiales Corporativos',
@@ -118,7 +118,7 @@ const SERVICES = [
   },
   {
     id: 'printing',
-    photo: './Fotos/Services/Printing.PNG',
+    photo: './Fotos/Services/Printing.webp',
     color: '#25D366',
     es: {
       title: 'Printing',
@@ -137,7 +137,7 @@ const SERVICES = [
   },
   {
     id: 'marketing',
-    photo: './Fotos/Services/marketing.jpg',
+    photo: './Fotos/Services/marketing.webp',
     color: '#FF9900',
     es: {
       title: 'Marketing Digital',
