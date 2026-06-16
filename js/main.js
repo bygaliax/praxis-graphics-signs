@@ -163,6 +163,8 @@ const T = {
   es: {
     tagline: 'Graphics & Signs · Hialeah, Miami FL',
     location: 'Hialeah, FL 33015',
+    rev_title: 'Déjanos tu reseña en Google',
+    rev_sub: 'Toma 10 segundos · ayúdanos a crecer',
     label_services: 'Nuestros Servicios',
     label_contact: 'Contáctanos',
     label_location: 'Ubicación',
@@ -199,6 +201,8 @@ const T = {
   en: {
     tagline: 'Graphics & Signs · Hialeah, Miami FL',
     location: 'Hialeah, FL 33015',
+    rev_title: 'Leave us a Google review',
+    rev_sub: 'Takes 10 seconds · help us grow',
     label_services: 'Our Services',
     label_contact: 'Contact Us',
     label_location: 'Location',
